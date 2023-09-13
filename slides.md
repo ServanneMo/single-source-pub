@@ -1240,7 +1240,7 @@ Ici, l'espace des *issues* a été lui-même hacké lors d'un projet Abrüpt don
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
 
 
-![](img/gitlab4.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+![](img/graph-ecridil.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 ===
 
@@ -1623,4 +1623,4 @@ Sorbonne Université
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
 
 
-![](img/)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+![](img/bye.gif)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
