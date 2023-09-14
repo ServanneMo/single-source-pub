@@ -5,6 +5,9 @@
 
 ![](img/voleCeLivre.jpeg)<!-- .element: style="width:400px" -->
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/qr-code-cours-ens.png" data-background-size="contain"-->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
